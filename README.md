@@ -19,9 +19,5 @@ A web-based Resume Analyzer built using **Python**, **Streamlit**, and **NLP** t
 - Regex
 - Scikit-learn (TF-IDF, Cosine Similarity)
 
-## 📷 Screenshot
 
-![App Screenshot](screenshot.png)
-
-## 📁 Folder Structure
 
