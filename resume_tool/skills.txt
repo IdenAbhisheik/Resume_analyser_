@@ -1,0 +1,15 @@
+power bi
+ms excel
+tableau
+powerpoint
+python
+pandas
+numpy
+matplotlib
+seaborn
+sql
+data cleaning
+data visualization
+statistical analysis
+data storytelling
+problem solving
